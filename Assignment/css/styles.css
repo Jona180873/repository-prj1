@@ -10,7 +10,20 @@
 	font-family: 'Montserrat', sans-serif;
 	margin: 70px;
 	font-size: 60px;
-	
+}
+
+.topnav {
+background-color:	darkgoldenrod;
+	overflow: hidden;
+}
+
+.topnav a {
+float: left; 
+	color: #ce1a35;
+		text-align: center;
+	padding: 14px 16px;
+	font-size: 24px; 
+			
 }
 body { 
 align-content: center;
@@ -20,7 +33,7 @@ color: gold;
 padding: 50;
 margin: 40px;
 background-color: #ce1a35; 
-font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
 font-size: 25px;
 font-style: italic
 }
